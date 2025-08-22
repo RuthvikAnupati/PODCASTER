@@ -147,11 +147,15 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-## 👨‍💻 Contributors
-
-- **A. Vishnuvardhan Reddy (21MIC7020)**
-- **A. Ruthvik Reddy (21MIC7101)**
-- **M. V. P. Kashyap (21MIC7085)**
+## 📸 Screenshots
+<img width="753" height="403" alt="image" src="https://github.com/user-attachments/assets/c98ba952-c6f0-4a1f-9630-edb6ff039980" />
+<img width="753" height="403" alt="image" src="https://github.com/user-attachments/assets/26341515-4b3b-4309-9a62-c9de349ee2c7" />
+<img width="753" height="401" alt="image" src="https://github.com/user-attachments/assets/8c5afde1-083e-4d3c-95b1-367937de2bc0" />
+<img width="753" height="401" alt="image" src="https://github.com/user-attachments/assets/70d01074-b6f2-4e04-b78e-9678e5635702" />
+<img width="753" height="404" alt="image" src="https://github.com/user-attachments/assets/32b4f55e-03eb-4508-8910-0cd6c7665056" />
+<img width="753" height="402" alt="image" src="https://github.com/user-attachments/assets/858f5e71-e353-41a8-b121-1006d7796d39" />
+<img width="753" height="399" alt="image" src="https://github.com/user-attachments/assets/2dae6d62-52b9-4a4a-8e06-e55ab315dc1c" />
+<img width="753" height="400" alt="image" src="https://github.com/user-attachments/assets/fc071188-b7a1-4778-8f35-ef97663e74c6" />
 
 ---
 
