@@ -1,0 +1,24 @@
+# Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build outputs
+frontend/dist/
+backend/dist/
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local uploads/media (don’t track big files in Git)
+backend/uploads/
+
+# IDE/system
+.vscode/
+.DS_Store
+Thumbs.db
